@@ -1,5 +1,4 @@
 # FTP
-----
 
 Script criado para enviar arquivos via FTP.
 
