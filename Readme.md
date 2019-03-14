@@ -1,4 +1,4 @@
-# FTP
+# FTP :rocket:
 
 Script criado para enviar arquivos via FTP.
 
@@ -20,19 +20,3 @@ remoto | Diretorio FTP(Deixe em branco se for pasta raiz)
 	password = admin321
 	dir = C:\FTP
 	remoto = /pasta/
-
-
-####Code Blocks (Indented style)
-
-Indented 4 spaces, like `<pre>` (Preformatted Text).
-
-    <?php
-        echo "Hello world!";
-    ?>
-    
-Code Blocks (Preformatted text):
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
