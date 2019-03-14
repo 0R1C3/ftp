@@ -3,6 +3,7 @@
 Script criado para enviar arquivos via FTP, Todos os arquivos que estiverem com a data do dia vão ser enviados.
 
 ###Config.ini
+
 Nome  | Descrição
 ------------- | -------------
 host  | Host FTP
