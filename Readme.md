@@ -1,16 +1,18 @@
-# FTP
+# FTP-FILES
+> Enviar arquivos via FTP.
 
-Script criado para enviar arquivos via FTP.
+Script craido para enviar de arquivos via FTP.
 
 ## Config.ini
 
-Nome  | Descrição
-------------- | -------------
-host  | :house: Host FTP
-username  | :cop: Usuário FTP
-password  | :key: Senha FTP
-dir	 | :floppy_disk: Diretorio Local
-remoto | :computer: Diretorio FTP
+\# | Nome  | Descrição
+------------- | ------------- | -------------
+:house: | host  | Host FTP
+:cop: | username  | Usuário FTP
+:key: | password  | Senha FTP
+:floppy_disk: | dir	 | Diretorio Local
+:computer: | remoto | Diretorio FTP
+
 
 
 ## Exemplo
