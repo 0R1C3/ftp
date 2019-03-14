@@ -4,6 +4,7 @@ Script criado para enviar arquivos via FTP, Todos os arquivos que estiverem com 
 
 ###Config.ini
 
+
 Nome  | Descrição
 ------------- | -------------
 host  | Host FTP
