@@ -4,7 +4,7 @@ Script criado para enviar arquivos via FTP.
 
 ## Config.ini
 
-# | Nome  | Descrição
+\# | Nome  | Descrição
 ------------- | -------------
 :house: | host  | Host FTP
 :cop: | username  | Usuário FTP
