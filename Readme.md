@@ -1,7 +1,7 @@
-FTP
+# FTP
 ----
 
-Script criado para enviar arquivos via FTP, Todos os arquivos que estiverem com a data do dia vão ser enviados.
+Script criado para enviar arquivos via FTP.
 
 # Config.ini
 
