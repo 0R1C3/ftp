@@ -1,4 +1,4 @@
-# FTP :rocket:
+# FTP
 
 Script criado para enviar arquivos via FTP.
 
@@ -6,11 +6,12 @@ Script criado para enviar arquivos via FTP.
 
 Nome  | Descrição
 ------------- | -------------
-host  | Host FTP
-username  | Usuario FTP
-password  | Senha FTP
-dir	 | Diretorio local
-remoto | Diretorio FTP(Deixe em branco se for pasta raiz)
+host  | :house: Host FTP
+username  | :cop: Usuário FTP
+password  | :key: Senha FTP
+dir	 | :floppy_disk: Diretorio Local
+remoto | :computer: Diretorio FTP
+
 
 ## Exemplo
 
