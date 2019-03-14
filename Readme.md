@@ -2,7 +2,7 @@
 
 Script criado para enviar arquivos via FTP.
 
-# Config.ini
+## Config.ini
 
 Nome  | Descrição
 ------------- | -------------
@@ -12,7 +12,7 @@ password  | Senha FTP
 dir	 | Diretorio local
 remoto | Diretorio FTP(Deixe em branco se for pasta raiz)
 
-# Exemplo
+## Exemplo
 
 	[Teste]
 	host = 127.0.0.1
